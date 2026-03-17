@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00bcd4&height=180&section=header&text=Rafiullah%20Nikzad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Zoho%20Developer%20%7C%20Certified%20Zoho%20Partner&descSize=16&descAlignY=58&descColor=e0f4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00bcd4&height=180&section=header&text=Rafiullah%20Nikzad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Zoho%20Developer%20%7C%20Certified%20Zoho%20Developer&descSize=16&descAlignY=58&descColor=e0f4ff" />
 
 </div>
 
