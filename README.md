@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I'm a **Senior Zoho Developer** and **Certified Zoho Developer** at **CloudZ Technologies**, Islamabad — with **7+ years** of hands-on experience building Zoho automation solutions for businesses across the Middle East, Europe, and South Asia.
+I'm a **Senior Zoho Developer** and **Certified Zoho Developer** at **CloudZ Technologies** — with **7+ years** of hands-on experience building Zoho automation solutions for businesses across the Middle East, Europe, and South Asia.
 
 I specialize in **Zoho Deluge scripting**, **API integrations**, and end-to-end Zoho ecosystem implementations. My work helps businesses eliminate manual processes, connect their tools, and scale operations — all through smart automation.
 
