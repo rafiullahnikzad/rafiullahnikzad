@@ -51,7 +51,7 @@ I specialize in **Zoho Deluge scripting**, **API integrations**, and end-to-end 
 
 ## 🚀 Featured Scripts & Repositories
 
-> 55+ open-source Zoho Deluge scripts — free for the community
+> 85+ open-source Zoho Deluge scripts — free for the community
 
 | Repository | Description |
 |---|---|
@@ -62,7 +62,7 @@ I specialize in **Zoho Deluge scripting**, **API integrations**, and end-to-end 
 | [📋 Get 200 Records in Zoho Projects](https://github.com/rafiullahnikzad/Get-200-record-in-zoho-projects) | Paginated bulk record fetch workaround |
 | [👥 Get All Users in Zoho Projects](https://github.com/rafiullahnikzad/get-all-users-details-in-zoho-projects) | Retrieve full user list from a Zoho Projects portal |
 
-➡️ **[View all 75+ repositories →](https://github.com/rafiullahnikzad?tab=repositories)**
+➡️ **[View all 85+ repositories →](https://github.com/rafiullahnikzad?tab=repositories)**
 
 ---
 
@@ -87,18 +87,6 @@ I'm available for **freelance Zoho development projects** via Upwork and direct 
 - ✅ Ongoing support & maintenance
 
 📧 **Reach me via [LinkedIn](https://www.linkedin.com/in/rafiullah-nikzad/)** or visit **[my portfolio](https://rafiullahnikzad.netlify.app/)**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafiullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiullahnikzad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiullahnikzad&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
