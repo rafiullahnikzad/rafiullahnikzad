@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🏆 Certified Zoho Developer · 7+ Years Experience
+### 🏆 Certified Zoho Developer · 8+ Years Experience in technology and business development, including 5 years specializing in Zoho
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-rafiullahnikzad.netlify.app-1a73e8?style=for-the-badge&logoColor=white)](https://rafiullahnikzad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafiullah%20Nikzad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiullah-nikzad/)
@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I'm a **Senior Zoho Developer** and **Certified Zoho Developer** at **CloudZ Technologies** — with **7+ years** of hands-on experience building Zoho automation solutions for businesses across the Middle East, Europe, and South Asia.
+I'm ** Zoho Developer** and **Certified Zoho Developer** with — **5+ years** of hands-on experience building Zoho automation solutions for businesses across the Middle East, Europe, and South Asia.
 
 I specialize in **Zoho Deluge scripting**, **API integrations**, and end-to-end Zoho ecosystem implementations. My work helps businesses eliminate manual processes, connect their tools, and scale operations — all through smart automation.
 
