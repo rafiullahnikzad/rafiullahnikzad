@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🏆 Certified Zoho Developer · 8+ Years Experience in technology and business development, including 5 years specializing in Zoho
+### 🏆 Certified Zoho Developer · 5+ Years Experience in Zoho
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-rafiullahnikzad.netlify.app-1a73e8?style=for-the-badge&logoColor=white)](https://rafiullahnikzad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafiullah%20Nikzad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiullah-nikzad/)
